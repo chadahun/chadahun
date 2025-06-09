@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Blur&color=auto&height=300&section=footer&text=AI%20Engineer-ChaDaHun&fontSize=0.3em&theme=tokyonight&rotate=-30"/>
+  <img src="https://capsule-render.vercel.app/api?type=Blur&color=auto&height=300&section=footer&text=AI%20Engineer-ChaDaHun&fontSize=0.3em&theme=tokyonight&rotate=-8"/>
 </div>
  
 

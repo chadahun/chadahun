@@ -22,7 +22,7 @@
     About Me
   </h2>
   <div align='center'>
-    <img src="https://www.notion.so/dhsportfolio/AI-Engineer-6ab4ce0a664e4957bd3753b684af0a99&style=for-the-badge&logo=notion&logoColor=white&hover=True" />
+    <img src="https://dhsportfolio.notion.site/AI-Engineer-6ab4ce0a664e4957bd3753b684af0a99?source=copy_link&style=for-the-badge&logo=notion&logoColor=white&hover=True" />
   </div>
 </div>
 

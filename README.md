@@ -22,7 +22,7 @@
     About Me
   </h2>
   <div align='center'>
-    <img src="[https://img.shields.io/badge/notion-%23000000.svg?](https://www.notion.so/dhsportfolio/AI-Engineer-6ab4ce0a664e4957bd3753b684af0a99)&style=for-the-badge&logo=notion&logoColor=white&hover=True" />
+    <img src="https://www.notion.so/dhsportfolio/AI-Engineer-6ab4ce0a664e4957bd3753b684af0a99&style=for-the-badge&logo=notion&logoColor=white&hover=True" />
   </div>
 </div>
 

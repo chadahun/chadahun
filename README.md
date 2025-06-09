@@ -22,7 +22,7 @@
     About Me
   </h2>
   <div align='center'>
-    <a href="https://www.notion.so/my-notion-page-id" target="_blank">
+    <a href="https://www.notion.so/my-notion-page-id](https://dhsportfolio.notion.site/AI-Engineer-6ab4ce0a664e4957bd3753b684af0a99?source=copy_link" target="_blank">
   <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
 </a>
   </div>

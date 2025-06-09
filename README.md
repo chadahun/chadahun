@@ -45,16 +45,14 @@
 
 
   
-  <div align='center'>
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadahun&layout=compact"/>
-  </div>
-
-    <img 
+<div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadahun&layout=compact"/>
+  <img 
     src="https://github-readme-stats.vercel.app/api?username=chadahun&show_icons=true&theme=radical" 
     alt="Dahun's GitHub stats" 
-    style="max-width: 100%;"/>
-  </div>
+    style="max-width: 100%;"
+    />
+</div>
 
 
 

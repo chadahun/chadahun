@@ -22,7 +22,7 @@
 </div>
 
 <div>
-  <h2 align='center'>
+  <h2 align='center' border='3px solid pink'>
     About Me
   </h2>
   <div align='center'>

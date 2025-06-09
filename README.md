@@ -4,11 +4,6 @@
 </div>
  
 
-
-
-
-<hr>
-
 <div align='center'>
   <h2 align='center'>Skill Set</h2>
   <div>

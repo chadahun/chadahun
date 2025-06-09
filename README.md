@@ -23,11 +23,10 @@
   </h2>
   <div align='center'>
     <a href="https://dhsportfolio.notion.site/AI-Engineer-6ab4ce0a664e4957bd3753b684af0a99?source=copy_link" target="_blank">
-  <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
-</a> <a href='https://www.kaggle.com/dahuncha' target='_blank'>
-  <img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-    
+      <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
+    </a> <a href='https://www.kaggle.com/dahuncha' target='_blank'>
+      <img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
+    </a>
   </div>
 </div>
 

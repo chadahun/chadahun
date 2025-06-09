@@ -5,7 +5,7 @@
  
 
 <div align='center'>
-  <h2 align='center' border-bottom='None'>Skills</h2>
+  <h2 align='center'>Skills</h2>
   <div>
     <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=black" /> <img src="https://img.shields.io/badge/scipy-%238CAAE6.svg?&style=for-the-badge&logo=scipy&logoColor=black" /> <img src="https://img.shields.io/badge/keras-%23D00000.svg?&style=for-the-badge&logo=keras&logoColor=white" />
   </div>

@@ -17,6 +17,15 @@
   </div>
 </div>
 
+<div>
+  <h2 align='center'>
+    About Me
+  </h2>
+  <div align='center'>
+    <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white&hover=True" />
+  </div>
+</div>
+
  
 
 

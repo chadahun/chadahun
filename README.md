@@ -1,4 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=Blur&color=auto&height=300&section=footer&text=capsule%20render&fontSize=90&theme=tokyonight"/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Blur&color=auto&height=300&section=footer&text=capsule%20render&fontSize=90&theme=tokyonight"/>
+</div>
+ 
+
 
 
 

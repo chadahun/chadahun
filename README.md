@@ -41,27 +41,20 @@
 <br>
 
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/chadahun/github-readme-stats" target="_blank" width='100%' height='100%'>
+
+
+
+  
+  <div align='center'>
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadahun&layout=compact"/>
+  </div>
+
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadahun&layout=compact" 
-      alt="Top Languages" 
-      style="max-width: 100%; max-height:100%" 
-    />
-  </a>
-      </td>
-      <td>
-        <img 
     src="https://github-readme-stats.vercel.app/api?username=chadahun&show_icons=true&theme=radical" 
     alt="Dahun's GitHub stats" 
-    style="max-width: 100%;" 
-  />
-      </td>
-    </tr>
-  </table>
-</div>
+    style="max-width: 100%;"/>
+  </div>
+
 
 

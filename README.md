@@ -19,8 +19,4 @@
 
 ## Portfolio
 <a href="https://dhsportfolio.notion.site/FirmWare-PortFolio-39f749af7735803895dbeaf844cf541a" target="_blank"> <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/> </a>
-
-<br><br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadahun&layout=compact" height="180px"/> <img src="https://github-readme-stats.vercel.app/api?username=chadahun&show_icons=true&theme=radical" alt="Dahun's GitHub stats" height="180px" /> 
 </div>

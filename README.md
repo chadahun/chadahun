@@ -22,4 +22,5 @@
 
 <br><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadahun&layout=compact" height="180px"/> <img src="https://github-readme-stats.vercel.app/api?username=chadahun&show_icons=true&theme=radical" alt="Dahun's GitHub stats" height="180px" /> </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadahun&layout=compact" height="180px"/> <img src="https://github-readme-stats.vercel.app/api?username=chadahun&show_icons=true&theme=radical" alt="Dahun's GitHub stats" height="180px" /> 
+</div>
